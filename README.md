@@ -1,5 +1,5 @@
 # Air-pressure-system-failures-in-Scania-trucks
-The main purpose of this project is to classify the failures of the Scania trucks is whether by the components
+The goal of this project is to classify the failures of Scania trucks is whether by the components
 related to APS (Air pressure system) or by the other components that are not related to APS. The data has
 only 2 classes i.e. positive or negative. So, this is a binary classification problem.
 There is also misclassification cost associated with this problem.
